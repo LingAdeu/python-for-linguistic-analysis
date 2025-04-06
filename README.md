@@ -4,7 +4,7 @@
 ## Overview
 
 ## Folder Structure
->![info]
+>[!important]
 >The notebook can be seen [here](https://github.com/LingAdeu/python-for-linguistic-analysis/blob/main/Linguistic-Analysis.ipynb)
 ## Feedback
 If there are any questions or suggestions for improvements, feel free to contact me here:
