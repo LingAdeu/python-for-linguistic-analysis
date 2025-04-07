@@ -8,7 +8,6 @@ This repository contains a collection of Python notebooks that demonstrate vario
 ```bash
 .
 ├── data
-├── header.png
 ├── img
 ├── notebook
 │   ├── 01_dependency-parsing.ipynb
@@ -19,7 +18,10 @@ This repository contains a collection of Python notebooks that demonstrate vario
 ```
 
 >[!important]
->The notebook can be seen [here](https://github.com/LingAdeu/python-for-linguistic-analysis/blob/main/Linguistic-Analysis.ipynb)
+>The notebooks sometimes cannot be displayed properly on GitHub repository directly. To read the notebooks, use the following hyperlinks:
+>- [Syntactic Dependency Parsing](https://nbviewer.org/github/LingAdeu/python-for-linguistic-analysis/blob/main/notebook/01_dependency-parsing.ipynb)
+>- [Semantic Similarity](https://nbviewer.org/github/LingAdeu/python-for-linguistic-analysis/blob/main/notebook/02_semantic-similarity.ipynb)
+>- [Acoustic Phonetics](https://nbviewer.org/github/LingAdeu/python-for-linguistic-analysis/blob/main/notebook/03_acoustic-phonetics.ipynb)
 
 ## Feedback
 If there are any questions or suggestions for improvements, feel free to contact me here:
