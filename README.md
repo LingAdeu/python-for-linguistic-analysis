@@ -5,9 +5,9 @@
 
 ## Folder Structure
 ```bash
-    .
-    ├── Linguistic-Analysis.ipynb
-    └── README.md
+.
+├── Linguistic-Analysis.ipynb
+└── README.md
 ```
 
 >[!important]
