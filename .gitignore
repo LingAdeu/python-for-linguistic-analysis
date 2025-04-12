@@ -1,4 +1,6 @@
 README_files/
 README.html
-Linguistic-Analysis.ipynb
 .DS_Store
+src/phonetics_new.py
+src/__pycache__
+notebook/03_acoustic-phonetics-new.ipynb
